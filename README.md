@@ -4,7 +4,7 @@ In this repo learnings of Low Level Design principles can uploaded with their ex
    
     S-> Single Responsibility Principle
    
-     O ->
+     O -> Open closed Principle
        
        L ->
          
