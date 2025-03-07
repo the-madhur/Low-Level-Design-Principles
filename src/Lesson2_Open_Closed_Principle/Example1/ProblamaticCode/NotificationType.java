@@ -19,7 +19,7 @@ public enum NotificationType
         System.out.println("Sending an Email");
     }
 
-    public void sendWhatsAppNotification()
+    public void sendWhatsAppNotifications()
     {
         System.out.println("Sending an Email");
     }
