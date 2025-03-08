@@ -1,8 +1,9 @@
 package Lesson3_Abstract_classes_and_Interfaces.InterfaceDemo;
 
-public class MongoDbRepository 
+public class MongoDbRepository implements iRepository
 {
-    getUser()
+    @Override
+    public void getUser()
     {
         System.out.println("User from MongoDb ");
     }
