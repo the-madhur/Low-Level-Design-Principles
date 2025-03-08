@@ -7,9 +7,9 @@ public class Macbook extends Product
         return 0;
     }
 
-    public void termAndConditions()
+    public void termsAndConditions()
     {
-        System.out.println("Some Terms");
+        System.out.println("Terms and Conditions of Macbook");
     }
 
 }
