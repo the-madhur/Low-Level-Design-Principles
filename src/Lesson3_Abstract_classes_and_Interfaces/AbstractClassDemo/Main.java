@@ -4,7 +4,10 @@ public class Main
 {
     public static void main(String[] args) {
         Product p = new Macbook();
-        p.termAndConditions();
+        p.termsAndConditions();
+
+        Product ll = new LenovoLpatop();
+        ll.termsAndConditions();
     }
 
 }
