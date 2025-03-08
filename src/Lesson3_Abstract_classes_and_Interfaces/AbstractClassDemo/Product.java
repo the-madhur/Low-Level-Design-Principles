@@ -4,8 +4,8 @@ public abstract class Product
 {
     public abstract double calculateDiscount();
 
-    public void termAndConditions()
+    public void termsAndConditions()
     {
-        System.out.println("Macbook Terms and Conditions");
+        System.out.println("Some Terms and Conditions");
     }
 }
