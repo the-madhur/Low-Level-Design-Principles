@@ -26,6 +26,16 @@ public class VISACard extends CreditCard
     {
         System.out.println("Mandate Payments impl of VISA");
     }
+
+    @Override
+    public void upiPayments() {
+        
+    }
+
+    @Override
+    public void intlPayments() {
+        System.out.println("VISA Supports intl payments impl");
+    }
     
 
 }
