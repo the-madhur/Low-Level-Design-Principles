@@ -26,5 +26,15 @@ public class MasterCard extends CreditCard
     {
         System.out.println("Mandate Payments impl of MasterCard");
     }
+
+    @Override
+    public void upiPayments() {
+       
+    }
+
+    @Override
+    public void intlPayments() {
+        System.out.println("Master Card Supports intl payments impl");
+    }
     
 }
