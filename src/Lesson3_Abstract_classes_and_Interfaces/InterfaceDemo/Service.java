@@ -6,17 +6,7 @@ public class Service
     {
         iRepository repo = new MySQLRepository();
         
-        private iRepository repo;
-
-        // Constructor Injection
-        public Service(IRepo repo) 
-        {
-            this.repo = repo;
-        }
-
-        public void fetchUsers() {
-            repo.getUser(); // Calls the implemented method from MySQLRepository or MyDBRepository
-        }
+        repo.getUser();
         
     }
 
