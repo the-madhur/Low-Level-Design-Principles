@@ -27,5 +27,9 @@ public class Buyer implements User
         return false;
     }
 
-
+    @Override
+    public void ApproveProduct() 
+    {
+        
+    }
 }
