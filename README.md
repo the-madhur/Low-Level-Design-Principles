@@ -6,7 +6,7 @@
    
      O -> Open closed Principle
        
-       L ->
+       L -> Liskov Substitution Principle (LSP)
          
          I ->
            
