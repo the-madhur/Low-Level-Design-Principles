@@ -27,5 +27,11 @@ public class Admin implements User
         return false;
     }
 
+    @Override
+    public void ApproveProduct() 
+    {
+        
+    }
+
 
 }
