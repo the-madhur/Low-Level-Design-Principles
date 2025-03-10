@@ -2,12 +2,12 @@
    
    ## S O L I D  Principles
    
-    S-> Single Responsibility Principle
+    S-> Single Responsibility Principle(SRP)
    
-     O -> Open closed Principle
+     O -> Open closed Principle(OCP)
        
-       L ->
+       L -> Liskov Substitution Principle(LSP)
          
-         I ->
+         I -> Interface Segregation Principle(ISP)
            
            D ->
