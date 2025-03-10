@@ -4,7 +4,7 @@
    
     S-> Single Responsibility Principle(SRP)
    
-     O -> Open closed Principle
+     O -> Open closed Principle(OCP)
        
        L -> Liskov Substitution Principle(LSP)
          
