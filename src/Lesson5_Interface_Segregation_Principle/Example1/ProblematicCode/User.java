@@ -7,7 +7,9 @@ public interface User
     boolean canAddProduct();
 
     boolean canModifyProduct();
-    
+
     boolean canApproveProduct();
+
+    void ApproveProduct();
     
 }
