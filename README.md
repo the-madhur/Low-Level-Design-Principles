@@ -2,7 +2,7 @@
    
    ## S O L I D  Principles
    
-    S-> Single Responsibility Principle
+    S-> Single Responsibility Principle(SRP)
    
      O -> Open closed Principle
        
