@@ -8,6 +8,6 @@
        
        L -> Liskov Substitution Principle(LSP)
          
-         I ->
+         I -> Interface Segregation Principle(ISP)
            
            D ->
