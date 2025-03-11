@@ -29,6 +29,7 @@ public class Product
         {
             this.price = b.getPrice();
         }
+        this.name = b.getName();
     }
     
 }
