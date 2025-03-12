@@ -4,12 +4,12 @@ public class Main
 {
     public static void main(String[] args) {
         
-        Builder b = new Builder();
+        Builder b = Product.getBuilder();
         b.setBrand("Apple");
         b.setName("Iphone 16");
         b.setPrice(20000);
 
-        Product p = new Product(b);
+        
     }
 
 }
