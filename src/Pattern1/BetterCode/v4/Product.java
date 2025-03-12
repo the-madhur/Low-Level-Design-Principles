@@ -23,7 +23,7 @@ public class Product
     private List<String> images;
 
     // default Constructor
-    Product(Builder b)
+   private Product(Builder b)
     {
         if(b.getPrice() > 0)
         {
