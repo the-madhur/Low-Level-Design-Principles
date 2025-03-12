@@ -4,6 +4,6 @@ public class InsuranceQuote
 {
     private String quoteDetails;
 
-    public 
+    
 
 }
