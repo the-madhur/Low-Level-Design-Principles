@@ -4,12 +4,13 @@ public class Main
 {
     public static void main(String[] args) {
         
-        Builder b = Product.getBuilder();
-        b.setBrand("Apple");
-        b.setName("Iphone 16");
-        b.setPrice(20000);
-
-        Product p = b.build();
+        Product p = new Product.Builder()
+                            .setName("Iphone 16")
+                            .setPrice(57000)
+                            .setBrand("Apple")
+                            .setDesc("New iphone with A16 Bionic chip")
+                            .setCategory("Smartphones")
+                            .build();
     }
 
 }
