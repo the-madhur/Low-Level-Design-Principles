@@ -9,7 +9,7 @@ public class Main
         b.setName("Iphone 16");
         b.setPrice(20000);
 
-        
+        Product p = b.build();
     }
 
 }
