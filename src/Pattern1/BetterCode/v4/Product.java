@@ -73,35 +73,40 @@ public class Product
 
     public Product build()
     {
-        return null;
+        return new Product(this);
     }
 
     // Setters 
 
-    public void setName(String name)
+    public Builder setName(String name)
     {
         this.name = name;
+        return this;
     }
 
-    public void setDesc(String desc)
+    public Builder setDesc(String desc)
     {
         this.desc = desc;
+        return this;
     }
 
-    public void setPrice(int price)
+    public Builder setPrice(int price)
     {
-        if(price < 0) return;  // this validateion we do after creating objects in Main class that does not follow our Situation 2 - Validate the properties befor creating objects
+        if(price < 0) return this;  // this validateion we do after creating objects in Main class that does not follow our Situation 2 - Validate the properties befor creating objects
         this.price = price;
+        return this;
     }
 
-    public void setBrand(String brand)
+    public Builder setBrand(String brand)
     {
         this.brand = brand;
+        return this;
     }
 
-    public void setCategory(String category)
+    public Builder setCategory(String category)
     {
         this.category = category;
+        return this;
     }
 
     // Getters--------------
