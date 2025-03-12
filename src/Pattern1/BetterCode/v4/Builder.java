@@ -29,6 +29,11 @@ public class Builder
 
     }
 
+    public Product build()
+    {
+        return null;
+    }
+
     // Setters 
 
     public void setName(String name)
