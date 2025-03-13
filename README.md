@@ -12,4 +12,4 @@
            
            D -> Dependency Inversion Principle(DIP)
 
-   ## Builder Design
+   ## Builder Design Pattern
