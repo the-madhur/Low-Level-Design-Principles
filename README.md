@@ -10,4 +10,7 @@
          
          I -> Interface Segregation Principle(ISP)
            
-           D ->
+           D -> Dependency Inversion Principle(DIP)
+
+   ## Builder Design Pattern
+      Pattern 1
