@@ -6,7 +6,7 @@ public class Main
     {
         Product p = new Product();
 
-        p.setName("Iphone 16");
+        p.setName("Iphone");
         p.setDesc("New emerging Iphone 16 with new A15 bionic chip");
         p.setPrice(60000);
         p.setBrand("Apple");
