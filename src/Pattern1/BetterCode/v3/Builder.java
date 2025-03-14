@@ -2,7 +2,7 @@ package Pattern1.BetterCode.v3;
 
 import java.util.List;
 
-public class Builder 
+public class Builder     //Builder class
 {
     public String getName()
     {
