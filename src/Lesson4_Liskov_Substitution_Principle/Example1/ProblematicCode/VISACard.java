@@ -21,6 +21,7 @@ public class VISACard extends CreditCard
         System.out.println("Swipe and Pay impl of VISA");
     }
 
+    
     @Override
     public void mandatePayments() 
     {
