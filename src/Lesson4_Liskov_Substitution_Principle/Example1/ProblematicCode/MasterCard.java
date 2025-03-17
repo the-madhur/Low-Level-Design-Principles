@@ -20,6 +20,7 @@ public class MasterCard extends CreditCard
     {
         System.out.println("Swipe and Pay impl of MasterCard");
     }
+    
 
     @Override
     public void mandatePayments() 
