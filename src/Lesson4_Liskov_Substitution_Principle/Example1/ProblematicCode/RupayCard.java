@@ -21,6 +21,7 @@ public class RupayCard extends CreditCard
         System.out.println("Swipe and Pay impl of Rupay");
     }
 
+    
     @Override
     public void mandatePayments() 
     {
