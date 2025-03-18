@@ -3,6 +3,7 @@
    ## S O L I D  Principles
    
     S-> Single Responsibility Principle(SRP)
+        Examples of 1st Principles
    
      O -> Open closed Principle(OCP)
        
