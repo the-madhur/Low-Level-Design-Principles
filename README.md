@@ -12,6 +12,7 @@
             Examples of 3rd Principles
          
          I -> Interface Segregation Principle(ISP)
+               Examples of 1st Principles
            
            D -> Dependency Inversion Principle(DIP)
 
