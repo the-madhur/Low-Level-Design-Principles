@@ -9,6 +9,7 @@
         Examples of 2nd Principles
        
        L -> Liskov Substitution Principle(LSP)
+            Examples of 3rd Principles
          
          I -> Interface Segregation Principle(ISP)
            
