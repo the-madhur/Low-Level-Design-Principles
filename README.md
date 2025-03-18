@@ -15,6 +15,7 @@
               Examples of 1st Principles
            
            D -> Dependency Inversion Principle(DIP)
+           Examples of 1st Principles
 
    ## Builder Design Pattern
       Pattern 1
