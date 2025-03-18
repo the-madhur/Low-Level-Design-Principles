@@ -6,6 +6,7 @@
         Examples of 1st Principles
    
      O -> Open closed Principle(OCP)
+        Examples of 1st Principles
        
        L -> Liskov Substitution Principle(LSP)
          
