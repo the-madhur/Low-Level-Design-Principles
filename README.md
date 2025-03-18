@@ -15,7 +15,7 @@
               Examples of 4th Principles
            
            D -> Dependency Inversion Principle(DIP)
-           Examples of 1st Principles
+           Examples of 5th Principles
 
    ## Builder Design Pattern
       Pattern 1
